@@ -1,5 +1,10 @@
 # weather_yl6088
 
+[![CI](https://github.com/QMSS-G5072-2026/weather_li_yunxiao/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_li_yunxiao/actions/workflows/ci.yml)
+
+Utilities for converting, summarizing, and cleaning weather data.
+# weather_yl6088
+
 Utilities for converting, summarizing, and cleaning weather data.
 
 ## Installation
